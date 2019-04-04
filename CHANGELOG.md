@@ -1,6 +1,6 @@
 # addcomm/yii2-hiart
 
-## [0.5] - 2019-04-04
+## [0.5.0] - 2019-04-04
 - First Addcomm release
 
 ## [0.4.0] - 2019-02-20
